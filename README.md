@@ -1,1 +1,1 @@
-this is the html/css project on theodinproject.com
+An attempt at recreating Google's homepage. (Project from theodinproject.com)
